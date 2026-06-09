@@ -1,0 +1,23 @@
+- id: FLB-NT-OPEN-001
+  title: Twin Prime Conjecture
+  difficulty: 10
+  status: open
+  area: analytic_number_theory
+
+- id: FLB-NT-OPEN-002
+  title: Goldbach Conjecture
+  difficulty: 10
+  status: open
+  area: additive_number_theory
+
+- id: FLB-NT-OPEN-003
+  title: Legendre Conjecture
+  difficulty: 9
+  status: open
+  area: prime_distribution
+
+- id: FLB-NT-OPEN-004
+  title: Odd Perfect Number Problem
+  difficulty: 10
+  status: open
+  area: divisor_theory
