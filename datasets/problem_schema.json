@@ -1,0 +1,8 @@
+{
+  "id": "NT001",
+  "category": "number_theory",
+  "difficulty": 8,
+  "problem": "Problem statement",
+  "answer": "Expected answer",
+  "verification": "symbolic"
+}
