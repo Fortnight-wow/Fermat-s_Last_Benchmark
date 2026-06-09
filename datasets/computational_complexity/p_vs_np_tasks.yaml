@@ -1,0 +1,23 @@
+- id: FLB-CC-001
+  category: Computational Complexity
+  title: SAT Verification
+  difficulty: 6
+  status: solved
+  statement: Verify whether a proposed assignment satisfies a Boolean formula.
+  verification: deterministic
+
+- id: FLB-CC-002
+  category: Computational Complexity
+  title: Hamiltonian Cycle Detection
+  difficulty: 8
+  status: solved
+  statement: Determine whether a graph contains a Hamiltonian cycle.
+  verification: graph-checking
+
+- id: FLB-CC-003
+  category: Computational Complexity
+  title: P versus NP Reasoning Task
+  difficulty: 10
+  status: open-inspired
+  statement: Analyze reductions between classical NP-complete problems and explain correctness.
+  verification: expert-review
