@@ -1,26 +1,25 @@
 # Fermat's Last Benchmark
 
-Fermat's Last Benchmark is a student-built project that aims to evaluate how well Large Language Models solve genuinely difficult mathematical reasoning problems.
+A research-oriented benchmark for evaluating mathematical reasoning systems on difficult and historically significant problems.
 
-Most benchmarks focus on standard exam questions or coding tasks. This project focuses on deeper reasoning problems inspired by university mathematics, olympiad-style thinking, theoretical computer science, and mathematical proof techniques.
+## Overview
 
-## Motivation
+Fermat's Last Benchmark focuses on mathematical reasoning rather than routine question answering.
 
-Modern AI models can solve many routine problems, but measuring true reasoning ability remains difficult.
+The project combines:
 
-This repository attempts to build a benchmark where:
+- Curated challenge datasets
+- Mathematical verification utilities
+- Automated testing
+- Benchmark execution tools
+- Leaderboard infrastructure
 
-- Problems are challenging
-- Solutions can be verified automatically
-- New problems can be contributed by the community
-- Different models can be compared fairly
-
-## Categories
+## Domains
 
 - Number Theory
-- Combinatorics
-- Graph Theory
 - Algebra
+- Graph Theory
+- Combinatorics
 - Optimization
 - Computational Complexity
 
@@ -30,23 +29,39 @@ This repository attempts to build a benchmark where:
 benchmark/
 datasets/
 verification/
+scripts/
+tests/
 leaderboard/
+research_sets/
 ```
 
-## Current Goals
+## Workflow
 
-- Create a growing collection of difficult problems
-- Build automatic verification tools
-- Generate benchmark scores for different models
-- Support community-submitted problems
+1. Select benchmark problems.
+2. Generate model solutions.
+3. Verify outputs automatically.
+4. Store benchmark results.
+5. Compare performance across models.
 
-## Future Plans
+## Current Features
 
-- SymPy-based symbolic verification
-- Difficulty estimation
-- Public leaderboard
-- Lean/Coq integration
-- Research-level challenge sets
+- SymPy-based verification
+- Automated unit tests
+- GitHub Actions CI
+- Problem schema specification
+- Research problem collections
+
+## Roadmap
+
+- Additional verification engines
+- Lean and Coq integrations
+- Difficulty calibration
+- Public benchmark reports
+- Community challenge submissions
+
+## Contributing
+
+See CONTRIBUTING.md for contribution guidelines.
 
 ## License
 
