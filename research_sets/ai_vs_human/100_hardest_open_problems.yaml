@@ -1,0 +1,24 @@
+- id: AIVH-OPEN-001
+  title: Riemann Hypothesis
+  field: Number Theory
+  status: Open
+
+- id: AIVH-OPEN-002
+  title: P versus NP
+  field: Computational Complexity
+  status: Open
+
+- id: AIVH-OPEN-003
+  title: Hodge Conjecture
+  field: Algebraic Geometry
+  status: Open
+
+- id: AIVH-OPEN-004
+  title: Birch and Swinnerton-Dyer Conjecture
+  field: Number Theory
+  status: Open
+
+- id: AIVH-OPEN-005
+  title: Navier-Stokes Existence and Smoothness
+  field: Analysis
+  status: Open
