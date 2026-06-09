@@ -1,0 +1,23 @@
+- id: FLB-GT-001
+  category: Graph Theory
+  title: Turan-Type Bound
+  difficulty: 7
+  status: solved
+  statement: Determine the maximum number of edges avoiding a complete subgraph.
+  verification: symbolic
+
+- id: FLB-GT-002
+  category: Graph Theory
+  title: Ramsey Reasoning Challenge
+  difficulty: 9
+  status: solved
+  statement: Establish bounds for small Ramsey numbers.
+  verification: proof-checking
+
+- id: FLB-GT-003
+  category: Graph Theory
+  title: Expansion Property Analysis
+  difficulty: 8
+  status: solved
+  statement: Analyze whether a graph family satisfies expansion conditions.
+  verification: algorithmic
